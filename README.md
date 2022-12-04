@@ -71,7 +71,7 @@ which compilers, platforms, and tools are supported and needed.
 > [usage documentation](documentation/DOCUMENTATION.md).
 
 The following describes the basic workflow of Orbit:
-1. Select a process in the list of currently running processes in the connection
+1. Select a process from the list of currently running processes in the connection
    setup dialog, and click **Start Session**.
 2. The list of loaded modules will appear at the top of the **Symbols** tab.
 3. Orbit tries to automatically retrieve debug information of the modules.
